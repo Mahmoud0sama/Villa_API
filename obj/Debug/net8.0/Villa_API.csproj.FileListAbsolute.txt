@@ -30,3 +30,8 @@ C:\Users\mtsid\source\repos\Villa\Villa_API\obj\Debug\net8.0\refint\Villa_API.dl
 C:\Users\mtsid\source\repos\Villa\Villa_API\obj\Debug\net8.0\Villa_API.pdb
 C:\Users\mtsid\source\repos\Villa\Villa_API\obj\Debug\net8.0\Villa_API.genruntimeconfig.cache
 C:\Users\mtsid\source\repos\Villa\Villa_API\obj\Debug\net8.0\ref\Villa_API.dll
+C:\Users\mtsid\source\repos\Villa\Villa_API\obj\Debug\net8.0\Villa_API.sourcelink.json
+C:\Users\mtsid\source\repos\Villa\Villa_API\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mtsid\source\repos\Villa\Villa_API\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\mtsid\source\repos\Villa\Villa_API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mtsid\source\repos\Villa\Villa_API\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
