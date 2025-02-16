@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yWnxxwzFKQej7y1RPeEADuVabTUdbWiQ/iko4T64J0azw+TWuHFpP2w2jTJYjakWhd+xKyJUHXU23Fs5UYltAg==",
+  "dgSpecHash": "YhjcBbdRPaRj0w69TWtKkG/IBNqXvoE7VGdW4yX0p49Mm0YHuIJRUZbJqRCdiJMozhIxTbBPBMueJ3D0WUkROQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\mtsid\\source\\repos\\Villa\\Villa_API\\Villa_API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mtsid\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\mtsid\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\mtsid\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\mtsid\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
